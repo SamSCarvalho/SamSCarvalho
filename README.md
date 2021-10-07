@@ -7,7 +7,22 @@ object **SamSCarvalho** {
  val name = "Samuel Santiago de Carvalho"
  val acknowledgements = "Engenheiro de Software"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Javascript", "Python", "React", "PHP") 
 }
 ```
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSCarvalho&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamSCarvalho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-samuelscarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-scarvalho)](https://www.linkedin.com/in/samuel-scarvalho)
+[![Gmail Badge](https://img.shields.io/badge/-sam.scarvalho17@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.scarvalho17@gmail.com)](mailto:sam.scarvalho17@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/SamSCarvalho?label=follow&style=social)](https://github.com/SamSCarvalho/SamSCarvalho)
