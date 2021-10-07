@@ -25,4 +25,4 @@ object **SamSCarvalho** {
 
 [![Linkedin: Samuel Carvalho](https://img.shields.io/badge/-samuelscarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-scarvalho)](https://www.linkedin.com/in/samuel-scarvalho)
 [![Gmail Badge](https://img.shields.io/badge/-sam.scarvalho17@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.scarvalho17@gmail.com)](mailto:sam.scarvalho17@gmail.com)
-[![GitHub Samuel Carvalho]( https://img.shields.io/github/followers/SamSCarvalho?label=follow&style=social)](https://github.com/SamSCarvalho/SamSCarvalho)
+[![GitHub Samuel Carvalho]( https://img.shields.io/github/followers/SamSCarvalho?label=follow&style=social)](https://github.com/SamSCarvalho)
