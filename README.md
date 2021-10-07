@@ -21,7 +21,7 @@ object **SamSCarvalho** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamSCarvalho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> Onde me encontrar: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-samuelscarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-scarvalho)](https://www.linkedin.com/in/samuel-scarvalho)
 [![Gmail Badge](https://img.shields.io/badge/-sam.scarvalho17@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.scarvalho17@gmail.com)](mailto:sam.scarvalho17@gmail.com)
